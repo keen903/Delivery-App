@@ -14,6 +14,11 @@ This two-week school project centers on developing three interconnected screens 
 # Android Studio 📱
 3. npm run android
 
+# Resources 📚
+- Curious about creating your project? start here: https://create-react-app.dev/docs/getting-started/
+- For more information and React Documentation: https://reactnativeelements.com/docs 
+- Hundreds of icons can be found here: https://oblador.github.io/react-native-vector-icons/#MaterialCommunityIcons
+  
 # And that's it! Enjoy! 🚀
 
 
