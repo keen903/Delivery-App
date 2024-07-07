@@ -9,7 +9,7 @@ This two-week school project centers on developing three interconnected screens 
 3. ls (to check if other files such as "screens" are currently present
    
 # Adding necessary dependencies ⚙️
-4. npm install
+4. npm install (node modules will be added to your project folder) 
 
 # Android Studio 📱
 3. npm run android
