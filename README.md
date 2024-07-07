@@ -1,4 +1,4 @@
-# Hello! I'm excited to share my first-ever React Native App with you all! 🤩
+# Overview 🤩
 This two-week school project centers on developing three interconnected screens to showcase expertise in wireframing and React implementation. I'm enthusiastic about demonstrating my design and development capabilities through this project. Your feedback is invaluable as I continue iterating and adding elements to complete a comprehensive delivery app interface.
 
 # Getting Started ⭐ 
