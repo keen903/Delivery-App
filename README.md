@@ -21,4 +21,10 @@ This two-week school project centers on developing three interconnected screens 
   
 # And that's it! Enjoy! 🚀
 
+## I also have a cocktail React Native APP utilizing API to fetch data and information. If you would like to explore it, let me know via email! 😉
+- CocktailDB API
+- + More features
+- Hand coded by me
+  
+
 
